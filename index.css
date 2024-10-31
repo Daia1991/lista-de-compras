@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(230, 218, 218);
+    padding: 15px;
+    border: 30px;
+   margin: 50px;
+}
+ul{
+    background-color: aqua;
+}
+li{
+    background-color: rgb(226, 163, 68);
+}
+span{
+    font-size: 29px;
+    
+}
